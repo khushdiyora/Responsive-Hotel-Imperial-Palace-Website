@@ -45,9 +45,18 @@ To run this project locally, follow these steps:
 
 3. Open `index.html` in your web browser to view the website.
 
-## Contributing
+## Some Snapshots of Project :
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+![Screenshot 2024-07-23 142812](https://github.com/user-attachments/assets/b4c232bf-29a6-4702-9f89-6e99491b10ab)
+
+![Screenshot 2024-07-23 142825](https://github.com/user-attachments/assets/726a9382-6618-4e01-88c4-b1a1ca0e6dc5)
+
+![Screenshot 2024-07-23 142839](https://github.com/user-attachments/assets/4d9742d0-0aab-48c9-877e-ad7f4f3c19f5)
+
+![Screenshot 2024-07-23 143001](https://github.com/user-attachments/assets/10dbdf33-52ff-4d1b-9098-fa1418aa8b43)
+
+![Screenshot 2024-07-23 143031](https://github.com/user-attachments/assets/38fc059a-6638-4bc9-8dab-6ae9e67e6496)
+
 
 ## License
 
@@ -56,4 +65,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Inspiration for the design was taken from various hotel websites.
-- Icons and images used in the project are credited to their respective owners.
+
+
+
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## If we find that this can be used for personal use, it must be illegal under the Copyright Law of India 2000 (Section 43 of the Information Technology Act, 2000). This project is not allowed to be changed in any way because it may contain copyright offenses. Instead, it is for Educational purposes.
+
+### Section 43 of the Information Technology Act, 2000 contains:
+
+## provides for compensation to the aggrieved party up to One Crore of Rupees from a person, who without the permission of the owner or the person who is in charge of computer, computer system or computer net-work secures, access to the system or down-loads data or down-loads ...
+
+![Khush diyora](https://github.com/user-attachments/assets/2cceda39-3a1a-44ff-aa96-556057017ee9)
